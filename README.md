@@ -97,67 +97,122 @@ SQL Database
         ↓
 Operations Dashboard / Municipality Systems
 
-🛠️ Technology Stack
-Mobile App
-React Native / Ionic / Android
-Backend
-ASP.NET Core Web API
-Entity Framework Core
-Database
-Microsoft SQL Server
-Cloud & Hosting
-Microsoft Azure
-Maps & Navigation
-Google Maps API
-GPS Tracking Services
-Notifications
-Firebase Cloud Messaging (FCM)
-📡 Real-Time Capabilities
-Live GPS tracking
-Route monitoring
-Driver activity tracking
-Real-time operational updates
-🔌 System Integrations
+# 🛠️ Technology Stack
+
+### Mobile Application
+- React Native / Ionic / Android
+
+### Backend Services
+- ASP.NET Core Web API
+- Entity Framework Core
+
+### Database
+- Microsoft SQL Server
+
+### Cloud & Hosting
+- Microsoft Azure
+
+### Maps & Navigation
+- Google Maps API
+- GPS Tracking Services
+
+### Notifications
+- Firebase Cloud Messaging (FCM)
+
+---
+
+# 📡 Real-Time Capabilities
+
+- Live GPS tracking
+- Route monitoring
+- Driver activity tracking
+- Real-time operational updates
+
+---
+
+# 🔌 System Integrations
+
 Designed to integrate with:
-Municipal waste systems
-Fleet management systems
-Smart Waste Resident App
-Waste analytics dashboards
-IoT smart bin systems
-📈 Future Enhancements
-AI-powered traffic-aware routing
-Offline mode support
-Driver performance analytics
-Voice-assisted operations
-Fuel usage optimization
-Smart bin auto-detection
-🔒 Security
-Role-based access control
-Secure API authentication
-Encrypted communication
-Device session management
-🧪 Testing
+- Municipal waste systems
+- Fleet management systems
+- Smart Waste Resident App
+- Waste analytics dashboards
+- IoT smart bin systems
+
+---
+
+# 📈 Future Enhancements
+
+- AI-powered traffic-aware routing
+- Offline mode support
+- Driver performance analytics
+- Voice-assisted operations
+- Fuel usage optimization
+- Smart bin auto-detection
+
+---
+
+# 🔒 Security
+
+- Role-based access control
+- Secure API authentication
+- Encrypted communication
+- Device session management
+
+---
+
+# 🧪 Testing
+
 The platform supports:
-Unit testing
-Integration testing
-API testing
-Mobile UI testing
-🚀 Deployment
+- Unit testing
+- Integration testing
+- API testing
+- Mobile UI testing
+
+---
+
+# 🚀 Deployment
+
 The application can be deployed to:
-Android devices
-Enterprise-managed mobile devices
-Municipal fleet tablets
-Private waste management operations
-🤝 Contribution
+- Android devices
+- Enterprise-managed mobile devices
+- Municipal fleet tablets
+- Private waste management operations
+
+---
+
+# 🤝 Contribution
+
 Contributions are welcome for improving:
-Route optimization
-Driver UX
-Reporting workflows
-Analytics features
+- Route optimization
+- Driver UX
+- Reporting workflows
+- Analytics features
+
 Please fork the repository and submit a pull request.
-📄 License
+
+---
+
+# 📄 License
+
 This project is proprietary software owned by:
-Energix Solutions 
+
+**Energix Solutions**
+
 Unauthorized distribution or reproduction is prohibited.
-📞 Contact
-Nkosinathi Ndaba
+
+---
+
+# 📞 Contact
+
+Nkosinathi Ndaba  
+Founder | Energix Solutions PTY Ltd 
+
+📧 [nathi@energixsolutions.co.za]  
+📱 [0794001549]
+
+---
+
+# 🌍 Vision
+
+To modernize waste collection operations through intelligent routing, real-time visibility, and smart operational management for cleaner and smarter cities.
